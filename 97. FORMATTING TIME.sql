@@ -1,0 +1,1 @@
+SELECT TIME_FORMAT(NOW(),'%H:%i%p')

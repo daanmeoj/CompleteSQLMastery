@@ -1,0 +1,1 @@
+SELECT LOCATE('n','Kindergarten')
